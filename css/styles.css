@@ -53,9 +53,9 @@ display: flex;
 gap: 40px;
 align-items: center;
 }
-.container-item{display: flex; gap: 40px;}
+.container-item{display: flex; }
 .container-address{
-   display: flex; 
+   display: flex; gap: 24px; 
 }
 .text-color {color: #2e2f42;}
 .menu-link {
