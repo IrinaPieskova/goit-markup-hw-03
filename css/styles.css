@@ -53,7 +53,7 @@ display: flex;
 gap: 40px;
 align-items: center;
 }
-.container-item{display: flex;  }
+.container-item{display: flex; gap: 40px; }
 .container-address{
    display: flex; gap: 24px; 
 }
